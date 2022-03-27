@@ -4592,13 +4592,13 @@ annotations:
     reference: ''
     span:
       start: 850760
-      end: 852042
+      end: 852043
     note_ref: a90c847facf24681b50bff422690b6b1
   690774216f16403197b6263635767a8f:
     imgnum: 682
     reference: ''
     span:
-      start: 852044
+      start: 852045
       end: 853279
     note_ref: a90c847facf24681b50bff422690b6b1
   83fbd1f1ac20480aa50f5d237d59e39e:
@@ -6104,61 +6104,61 @@ annotations:
     reference: ''
     span:
       start: 1147386
-      end: 1149074
+      end: 1149076
   2946d0c29555414fb53c7d337a812d4f:
     imgnum: 902
     reference: ''
     span:
-      start: 1149076
-      end: 1150870
+      start: 1149078
+      end: 1150872
   10a003f52fd4476faa4f117ef5959b36:
     imgnum: 903
     reference: ''
     span:
-      start: 1150872
-      end: 1152686
+      start: 1150874
+      end: 1152688
   d9b84836b38a48eeb5964c76c61d1ae0:
     imgnum: 904
     reference: ''
     span:
-      start: 1152688
-      end: 1154254
+      start: 1152690
+      end: 1154256
   25f730df04ba4b019a94283cd810d683:
     imgnum: 905
     reference: ''
     span:
-      start: 1154256
-      end: 1155988
+      start: 1154258
+      end: 1155990
   b8c91a35ec224ac9b9b954140c946866:
     imgnum: 906
     reference: ''
     span:
-      start: 1155990
-      end: 1157674
+      start: 1155992
+      end: 1157676
   c80dcc63ddc64fd88f3c7e7984cdbf83:
     imgnum: 907
     reference: ''
     span:
-      start: 1157676
-      end: 1159363
+      start: 1157678
+      end: 1159365
   647a3872640b4fccb3941e69747a0cad:
     imgnum: 908
     reference: ''
     span:
-      start: 1159365
-      end: 1160971
+      start: 1159367
+      end: 1160973
   7591a84aecef4660beab6c23112aa49b:
     imgnum: 909
     reference: ''
     span:
-      start: 1160973
-      end: 1162216
+      start: 1160975
+      end: 1162218
   1cc30322214a4cd7a4cc3b3ebe972179:
     imgnum: 910
     reference: ''
     span:
-      start: 1162218
-      end: 1162247
+      start: 1162220
+      end: 1162249
 local_ids:
   2b08673577aa4c768c8f91d5901cc1a8: 200000
   e146c53cdc0b4f79b74d6e6d25c05a00: 200001
